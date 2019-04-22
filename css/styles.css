@@ -1,7 +1,16 @@
-.main {
+ h1 {
   text-align: center;
-  margin: 0 auto;
 }
-nav a {
+
+ul {
+  margin: 10px auto;
+}
+
+ li {
   display: block;
+  text-align: center;
 }
+  .container {
+   width: 70px;
+   margin: 0 auto;
+ }
